@@ -15,4 +15,4 @@ A fun, beginner-friendly Streamlit app that recommends recipes, lets you search,
 git clone <repo-url>
 cd random_recipe_app
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run HOME.py
