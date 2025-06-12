@@ -1,0 +1,271 @@
+[
+    {
+        "name": "Spaghetti Aglio e Olio",
+        "category": "Dinner",
+        "ingredients": [
+            "Spaghetti",
+            "Garlic",
+            "Olive oil",
+            "Chili flakes",
+            "Parsley",
+            "Salt"
+        ],
+        "instructions": "Boil spaghetti in salted water until al dente and drain. In a pan, heat olive oil and sauté finely sliced garlic until golden. Add chili flakes and cook for a few seconds. Toss in the drained spaghetti and mix well to coat. Garnish with chopped parsley and serve hot."
+    },
+    {
+        "name": "Peanut Butter Banana Smoothie",
+        "category": "Drink",
+        "ingredients": [
+            "Banana",
+            "Peanut butter",
+            "Milk",
+            "Honey",
+            "Ice cubes"
+        ],
+        "instructions": "Peel and slice the banana. Add banana, peanut butter, milk, honey, and ice cubes to a blender. Blend until the mixture is smooth and creamy. Pour into a glass and serve chilled immediately."
+    },
+    {
+        "name": "Masala Chai",
+        "category": "Drink",
+        "ingredients": [
+            "Water",
+            "Milk",
+            "Tea leaves",
+            "Sugar",
+            "Ginger",
+            "Cardamom"
+        ],
+        "instructions": "Crush ginger and cardamom pods. Boil water and add the spices. Let simmer for 2-3 minutes. Add tea leaves, then milk and sugar. Simmer, strain into cups, and serve hot."
+    },
+    {
+        "name": "Vegetable Maggi",
+        "category": "Snack",
+        "ingredients": [
+            "Maggi noodles",
+            "Water",
+            "Mixed vegetables",
+            "Maggi tastemaker",
+            "Oil"
+        ],
+        "instructions": "Heat oil in a pan, sauté mixed vegetables for a couple of minutes. Add water and Maggi tastemaker. Bring to a boil, add noodles, and cook until done. Serve hot."
+    },
+    {
+        "name": "Fruit Salad",
+        "category": "Snack",
+        "ingredients": [
+            "Apple",
+            "Banana",
+            "Papaya",
+            "Pineapple",
+            "Honey",
+            "Lemon juice"
+        ],
+        "instructions": "Chop all fruits into bite-sized pieces. In a bowl, mix fruits with honey and a splash of lemon juice. Toss gently and serve fresh or chilled."
+    },
+    {
+        "name": "Omelette",
+        "category": "Breakfast",
+        "ingredients": [
+            "Eggs",
+            "Onion",
+            "Tomato",
+            "Green chilies",
+            "Salt",
+            "Pepper",
+            "Oil"
+        ],
+        "instructions": "Beat eggs with chopped onion, tomato, chilies, salt, and pepper. Heat oil in a pan, pour the mixture, spread evenly. Cook both sides until golden. Serve hot."
+    },
+    {
+        "name": "Paneer Bhurji",
+        "category": "Dinner",
+        "ingredients": [
+            "Paneer",
+            "Onion",
+            "Tomato",
+            "Ginger-garlic paste",
+            "Turmeric",
+            "Salt",
+            "Coriander"
+        ],
+        "instructions": "Sauté onions in oil until golden. Add ginger-garlic paste, then tomatoes and spices. Crumble paneer into the mix, stir, and cook for 5 minutes. Garnish with coriander and serve."
+    },
+    {
+        "name": "Lemon Rice",
+        "category": "Lunch",
+        "ingredients": [
+            "Cooked rice",
+            "Lemon juice",
+            "Mustard seeds",
+            "Curry leaves",
+            "Green chilies",
+            "Turmeric",
+            "Salt"
+        ],
+        "instructions": "Heat oil, crackle mustard seeds, add curry leaves and chilies. Add turmeric and salt. Mix in cooked rice and lemon juice. Stir well and serve warm."
+    },
+    {
+        "name": "Chocolate Mug Cake",
+        "category": "Dessert",
+        "ingredients": [
+            "Flour",
+            "Cocoa powder",
+            "Sugar",
+            "Milk",
+            "Oil",
+            "Baking powder"
+        ],
+        "instructions": "In a mug, mix flour, cocoa, sugar, and baking powder. Add milk and oil. Mix to a smooth batter. Microwave for 1-2 minutes. Let cool slightly before eating."
+    },
+    {
+        "name": "Curd Rice",
+        "category": "Lunch",
+        "ingredients": [
+            "Cooked rice",
+            "Curd",
+            "Mustard seeds",
+            "Curry leaves",
+            "Ginger",
+            "Green chilies",
+            "Salt"
+        ],
+        "instructions": "Mix cooked rice with curd and salt. Temper mustard seeds, curry leaves, chopped ginger and chilies in oil. Add to rice, mix gently. Serve chilled or room temp."
+    },
+    {
+        "name": "Aloo Paratha",
+        "category": "Breakfast",
+        "ingredients": [
+            "Wheat flour",
+            "Potatoes",
+            "Green chilies",
+            "Coriander",
+            "Salt",
+            "Garam masala",
+            "Oil"
+        ],
+        "instructions": "Boil and mash potatoes. Mix with chopped chilies, coriander, and spices. Make dough with wheat flour. Stuff dough with filling, roll and cook on a hot tawa with oil until golden on both sides."
+    },
+    {
+        "name": "Poha",
+        "category": "Breakfast",
+        "ingredients": [
+            "Flattened rice",
+            "Onion",
+            "Mustard seeds",
+            "Curry leaves",
+            "Turmeric",
+            "Salt",
+            "Lemon juice"
+        ],
+        "instructions": "Wash poha and drain. Sauté mustard seeds, curry leaves, and onion. Add turmeric and salt. Mix in poha and cook for 2 minutes. Add lemon juice and serve hot."
+    },
+    {
+        "name": "Chole",
+        "category": "Lunch",
+        "ingredients": [
+            "Chickpeas",
+            "Onion",
+            "Tomato",
+            "Ginger-garlic paste",
+            "Chole masala",
+            "Salt",
+            "Oil"
+        ],
+        "instructions": "Soak and boil chickpeas. Sauté onions, add ginger-garlic paste, tomatoes, and chole masala. Add chickpeas and simmer for 15 minutes. Garnish with coriander and serve."
+    },
+    {
+        "name": "Besan Chilla",
+        "category": "Snack",
+        "ingredients": [
+            "Gram flour",
+            "Onion",
+            "Tomato",
+            "Green chilies",
+            "Salt",
+            "Water",
+            "Oil"
+        ],
+        "instructions": "Make a batter of gram flour, chopped veggies, salt, and water. Pour onto a hot greased pan, spread into a thin pancake. Cook both sides until golden. Serve hot."
+    },
+    {
+        "name": "Vegetable Pulao",
+        "category": "Lunch",
+        "ingredients": [
+            "Rice",
+            "Mixed vegetables",
+            "Cumin",
+            "Bay leaf",
+            "Salt",
+            "Water",
+            "Oil"
+        ],
+        "instructions": "Sauté cumin and bay leaf in oil. Add chopped veggies and sauté. Add rinsed rice and water. Season with salt. Cover and cook until rice is fluffy. Serve with raita."
+    },
+    {
+        "name": "Banana Pancakes",
+        "category": "Breakfast",
+        "ingredients": [
+            "Banana",
+            "Flour",
+            "Milk",
+            "Sugar",
+            "Baking powder",
+            "Oil"
+        ],
+        "instructions": "Mash banana and mix with flour, sugar, baking powder, and milk. Make a smooth batter. Pour on a hot greased pan and cook both sides until golden. Serve with syrup."
+    },
+    {
+        "name": "Sooji Halwa",
+        "category": "Dessert",
+        "ingredients": [
+            "Semolina",
+            "Sugar",
+            "Water",
+            "Ghee",
+            "Cardamom",
+            "Cashews"
+        ],
+        "instructions": "Roast semolina in ghee until golden. Boil sugar and water separately. Add sugar syrup to semolina and stir constantly. Add cardamom and fried cashews. Serve warm."
+    },
+    {
+        "name": "Tomato Soup",
+        "category": "Starter",
+        "ingredients": [
+            "Tomatoes",
+            "Onion",
+            "Garlic",
+            "Salt",
+            "Pepper",
+            "Butter"
+        ],
+        "instructions": "Sauté onions and garlic in butter. Add chopped tomatoes and cook until soft. Blend the mixture, strain, and simmer. Season with salt and pepper. Serve hot."
+    },
+    {
+        "name": "Rava Upma",
+        "category": "Breakfast",
+        "ingredients": [
+            "Semolina",
+            "Mustard seeds",
+            "Curry leaves",
+            "Green chilies",
+            "Onion",
+            "Salt",
+            "Water"
+        ],
+        "instructions": "Roast semolina and keep aside. Sauté mustard seeds, curry leaves, chilies, and onions. Add water and salt. Bring to a boil, add semolina, stir continuously until thick. Serve hot."
+    },
+    {
+        "name": "Egg Fried Rice",
+        "category": "Lunch",
+        "ingredients": [
+            "Cooked rice",
+            "Eggs",
+            "Onion",
+            "Soy sauce",
+            "Salt",
+            "Pepper",
+            "Oil"
+        ],
+        "instructions": "Scramble eggs in oil and set aside. Sauté onions, add cooked rice, soy sauce, salt, and pepper. Mix well. Add scrambled eggs back in and stir-fry for 2 minutes. Serve hot."
+    }
+]
