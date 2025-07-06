@@ -16,3 +16,4 @@ git clone <repo-url>
 cd random_recipe_app
 pip install -r requirements.txt
 streamlit run HOME.py
+```
